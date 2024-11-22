@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aws Nassar | أوس نصار</h1>
 <h3 align="center">A passionate frontend developer from Palestine</h3>
-
+<hr>
 - 🌱 I’m currently learning **Frontend | Data Science**
 
 - 👨‍💻 All of my projects are available at [https://aws-nassar.netlify.app/](https://aws-nassar.netlify.app/)
