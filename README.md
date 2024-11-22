@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aws Nassar | أوس نصار</h1>
 <h3 align="center">A passionate frontend developer from Palestine</h3>
-<hr>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aws-nassar&label=Profile%20views&color=0e75b6&style=flat" alt="aws-nassar" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aws-nassar" alt="aws-nassar" /></a> </p>
 - 🌱 I’m currently learning **Frontend | Data Science**
 
 - 👨‍💻 All of my projects are available at [https://aws-nassar.netlify.app/](https://aws-nassar.netlify.app/)
