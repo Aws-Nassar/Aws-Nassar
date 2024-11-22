@@ -37,5 +37,6 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=25&color=F700FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;Let's+connect+and+collaborate!+😊" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=25&color=00008B&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;Let's+connect+and+collaborate!+😊" />
 </p>
+
