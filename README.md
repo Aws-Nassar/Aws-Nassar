@@ -20,7 +20,7 @@
 <a href="https://linkedin.com/in/aws-nassar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aws-nassar" height="30" width="40" /></a>
 <a href="https://fb.com/awsnassar1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="awsnassar1" height="30" width="40" /></a>
 <a href="https://instagram.com/awsnassar1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="awsnassar1" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@aws-nassar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@aws-nassar" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@aws-nassar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ƇƠԼƊ.ƜƠԼƑ" height="30" width="40" /></a>
 <a href="https://discord.gg/cold.wolf#4122" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="cold.wolf#4122" height="30" width="40" /></a>
 </p>
 
