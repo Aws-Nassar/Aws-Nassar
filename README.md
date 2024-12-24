@@ -5,8 +5,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aws-nassar" alt="aws-nassar" /></a> </p>
 - 🌱 I’m currently learning **Frontend | Data Science**
 
-- 👨‍💻 All of my projects are available at [https://aws-nassar.netlify.app/](https://aws-nassar.netlify.app/)
-
 - 📫 How to reach me **aws.a.nassar@gmail.com**
 
 - 📄 Know about my experiences [https://aws-nassar.netlify.app/](https://aws-nassar.netlify.app/)
