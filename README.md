@@ -2,7 +2,7 @@
 <h3 align="center">Passionate Frontend Developer & Game Developer from Palestine</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=25&color=00FF00&center=true&vCenter=true&width=500&lines=Building+engaging+web+experiences;Exploring+data+science+with+passion" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=25&color=00FF00&center=true&vCenter=true&width=500&lines=Building+engaging+web+experiences;Develop+PC+Games" />
 </p>
 
 ---
