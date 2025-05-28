@@ -65,5 +65,5 @@
 Thanks for visiting my profile! Feel free to explore my repositories, connect with me, or reach out for collaboration opportunities. 😊
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=20&color=00008B&center=true&vCenter=true&width=500&lines=Code.+Connect.+Create." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=20&color=00FF00&center=true&vCenter=true&width=500&lines=Code.+Connect.+Create." />
 </p>
